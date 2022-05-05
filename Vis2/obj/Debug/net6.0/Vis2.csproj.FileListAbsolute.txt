@@ -1,0 +1,15 @@
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\Vis2.csproj.AssemblyReference.cache
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\Vis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\Vis2.AssemblyInfoInputs.cache
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\Vis2.AssemblyInfo.cs
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\Vis2.csproj.CoreCompileInputs.cache
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\bin\Debug\net6.0\Vis2.exe
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\bin\Debug\net6.0\Vis2.deps.json
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\bin\Debug\net6.0\Vis2.runtimeconfig.json
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\bin\Debug\net6.0\Vis2.dll
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\bin\Debug\net6.0\Vis2.pdb
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\Vis2.dll
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\refint\Vis2.dll
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\Vis2.pdb
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\Vis2.genruntimeconfig.cache
+C:\Users\timof\Desktop\Проекты\Vis2\Vis2\obj\Debug\net6.0\ref\Vis2.dll
